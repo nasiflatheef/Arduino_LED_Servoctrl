@@ -1,1 +1,7 @@
-
+## Hardware Requirements
+- Arduino UNO
+- SG90 Servo Motor (or similar 5V servo)
+- LED
+- 220Ω resistor
+- Jumper wires
+- Breadboard
