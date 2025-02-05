@@ -23,4 +23,5 @@ This project demonstrates simultaneous control of an LED and a Servo motor using
 
 
 ## Circuit Diagram
-[View Circuit Diagram](hardware/circuit_diagram.png)
+![LED_servo](https://github.com/user-attachments/assets/39c9cc2a-b5dd-41c7-a4a4-9f5e57f949f2)
+![SIM_LED_Servo](https://github.com/user-attachments/assets/f9dae771-4039-4792-b80f-c409652e399d)
